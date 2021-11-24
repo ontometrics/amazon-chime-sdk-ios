@@ -1,10 +1,3 @@
-//
-//  Package.swift
-//  
-//
-//  Created by David Krystall on 11/24/21.
-//
-
 //swift-tools-version:5.3
 
 import PackageDescription

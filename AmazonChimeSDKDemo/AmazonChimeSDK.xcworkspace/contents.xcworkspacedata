@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:/Users/ret/ontometrics/amazon-chime-sdk-ios/Package.swift">
+   </FileRef>
+   <FileRef
       location = "group:AmazonChimeSDKDemo.xcodeproj">
    </FileRef>
    <FileRef

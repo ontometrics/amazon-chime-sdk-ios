@@ -18,7 +18,7 @@ let package = Package(
         ),
         .binaryTarget(
             name: "AmazonChimeSDKMedia",
-            url: "https://amazonchime-onto.s3.amazonaws.com/AmazonChimeSDKMedia.xcframework.zip
+            url: "https://amazonchime-onto.s3.amazonaws.com/AmazonChimeSDKMedia.xcframework.zip"
             //checksum: "ea602f96812010f9baab72bb16bf0e6398515cbb4054345a8373e0606c8860f3"
         )
     ]

@@ -4,6 +4,7 @@ import PackageDescription
 
 let package = Package(
     name: "AmazonChimeSDK",
+    platforms: [.iOS(.v13)],
     products: [
         .library(name: "AmazonChimeSDK", targets: ["AmazonChimeSDK", "AmazonChimeSDKMedia"])
     ],
